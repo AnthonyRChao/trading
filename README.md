@@ -7,3 +7,7 @@
 
 # strategies to test
 - simple MA crossover
+
+# questions
+
+- what is the difference between a RESTful and WebSocket?
